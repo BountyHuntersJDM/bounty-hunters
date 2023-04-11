@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bounty-hunters/static/css/main.82f85427.chunk.css",
-    "main.js": "/bounty-hunters/static/js/main.38f65bdd.chunk.js",
-    "main.js.map": "/bounty-hunters/static/js/main.38f65bdd.chunk.js.map",
+    "main.css": "/bounty-hunters/static/css/main.875b5e9d.chunk.css",
+    "main.js": "/bounty-hunters/static/js/main.700c34a7.chunk.js",
+    "main.js.map": "/bounty-hunters/static/js/main.700c34a7.chunk.js.map",
     "runtime-main.js": "/bounty-hunters/static/js/runtime-main.0e3ace16.js",
     "runtime-main.js.map": "/bounty-hunters/static/js/runtime-main.0e3ace16.js.map",
-    "static/js/2.98fc1083.chunk.js": "/bounty-hunters/static/js/2.98fc1083.chunk.js",
-    "static/js/2.98fc1083.chunk.js.map": "/bounty-hunters/static/js/2.98fc1083.chunk.js.map",
+    "static/js/2.354a3964.chunk.js": "/bounty-hunters/static/js/2.354a3964.chunk.js",
+    "static/js/2.354a3964.chunk.js.map": "/bounty-hunters/static/js/2.354a3964.chunk.js.map",
     "index.html": "/bounty-hunters/index.html",
-    "static/css/main.82f85427.chunk.css.map": "/bounty-hunters/static/css/main.82f85427.chunk.css.map",
-    "static/js/2.98fc1083.chunk.js.LICENSE.txt": "/bounty-hunters/static/js/2.98fc1083.chunk.js.LICENSE.txt",
+    "static/css/main.875b5e9d.chunk.css.map": "/bounty-hunters/static/css/main.875b5e9d.chunk.css.map",
+    "static/js/2.354a3964.chunk.js.LICENSE.txt": "/bounty-hunters/static/js/2.354a3964.chunk.js.LICENSE.txt",
     "static/media/Ale.4d1face9.jpg": "/bounty-hunters/static/media/Ale.4d1face9.jpg",
     "static/media/Luci.e31ae4ba.jpg": "/bounty-hunters/static/media/Luci.e31ae4ba.jpg",
     "static/media/Service-map.dd4fb970.jpg": "/bounty-hunters/static/media/Service-map.dd4fb970.jpg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0e3ace16.js",
-    "static/js/2.98fc1083.chunk.js",
-    "static/css/main.82f85427.chunk.css",
-    "static/js/main.38f65bdd.chunk.js"
+    "static/js/2.354a3964.chunk.js",
+    "static/css/main.875b5e9d.chunk.css",
+    "static/js/main.700c34a7.chunk.js"
   ]
 }
